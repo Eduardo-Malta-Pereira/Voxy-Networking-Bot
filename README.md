@@ -21,7 +21,7 @@ Como este bot utiliza arquivos de configuração sensíveis (que estão no `.git
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone [https://github.com/Eduardo-Malta-Pereira/Voxy-Networking-Bot.git](https://github.com/Eduardo-Malta-Pereira/Voxy-Networking-Bot.git)
+    git clone https://github.com/Eduardo-Malta-Pereira/Voxy-Networking-Bot.git
     cd Voxy-Networking-Bot
     ```
 
